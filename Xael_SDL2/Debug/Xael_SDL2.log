@@ -1,0 +1,34 @@
+﻿  GameManager.cpp
+C:\SDL\Xael_SDL2\Entity.h(14,27): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Xael_SDL2\Entity.h(15,30): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Xael_SDL2\Entity.h(33,27): warning C4244:  '+=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Xael_SDL2\Entity.h(37,48): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Xael_SDL2\Player.h(91,23): warning C4305:  'initializing': truncation from 'double' to 'const float'
+C:\SDL\Xael_SDL2\GameManager.cpp(493,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(508,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(523,24): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(712,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(716,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(719,42): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(735,25): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(739,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(744,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(937,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(992,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1137,22): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1160,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1161,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1179,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1180,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1201,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1202,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1225,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1226,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1249,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1250,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1273,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1274,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1353,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1367,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Xael_SDL2\GameManager.cpp(1370,14): warning C4244:  'return': conversion from 'int' to 'float', possible loss of data
+  Xael_SDL2.vcxproj -> C:\SDL\Xael_SDL2\Debug\Xael_SDL2.exe

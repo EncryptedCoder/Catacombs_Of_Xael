@@ -1,0 +1,13 @@
+All requests are welcome! Not all requests are fulfilled. However, before you make a request, please read patch notes so you don't ask me to fix something I have already done. Thank you!
+
+
+Added a door to the catacombs, now you MUST speak to the mayer before you can go down. Also, with this the enemies can not roam the town, YEAH!
+
+Fixed bug where if you don't enter a name you get no dialog. You will now be named Kubas by default if you don't choose one yourself.
+
+Fixed bug where if you had more health than what your maximum is supposed to be due to heals from endurance kill, and you use a potion, it will no longer let you. no more wasted potions. Same for the endurance potions.
+
+Fixed issue when shopping that you would have to enter the shop for each purchase. Added a shopping loop similer to the pause menu when using potions.
+
+Added a way to SAVE and RELOAD from save!!! (WOOOO, big deal here, I might be able to make the game longer and harder. Mini Bosses, more levels, more Towns. different items..ect)
+

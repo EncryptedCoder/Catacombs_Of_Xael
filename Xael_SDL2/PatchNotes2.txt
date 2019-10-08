@@ -1,0 +1,9 @@
+Created some chests to loot. WOOT
+Made a small section to show you what you gain each time you kill an enemy and or break open a Cask...
+Made a new item in the shop that allows you to purchase weapon upgrades!!! - in doing so, decreased the starting dmg by 25%.
+created a windows window that renders graphics. have a few in place and now rendering correctly..
+added a new enemy, Rats. 
+added an animation for the townsfolk. just as placeholders. 
+After killing the boss, you can now continue the game just killing and upgrading.
+more graphics and animations will come over time, but I need to focus more on functionality and more content.  
+
